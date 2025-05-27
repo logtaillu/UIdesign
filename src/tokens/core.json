@@ -1,0 +1,339 @@
+{
+  "global": {},
+  "变量集合/模式1": {
+    "颜色": {
+      "底色": {
+        "底色1": {
+          "value": "#fafafa",
+          "type": "color"
+        },
+        "底色2": {
+          "value": "#f3f3f5",
+          "type": "color"
+        },
+        "底色3": {
+          "value": "#ebecef",
+          "type": "color"
+        },
+        "底色4": {
+          "value": "#e2e3e7",
+          "type": "color"
+        }
+      },
+      "元素色": {
+        "元素色1": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "元素色2": {
+          "value": "#434344",
+          "type": "color"
+        },
+        "元素色3": {
+          "value": "#6d7076",
+          "type": "color"
+        },
+        "元素色4": {
+          "value": "#b91b24",
+          "type": "color"
+        },
+        "元素色5": {
+          "value": "#158e5c",
+          "type": "color"
+        },
+        "元素色6": {
+          "value": "#137aef",
+          "type": "color"
+        },
+        "元素色7": {
+          "value": "#f9a30e",
+          "type": "color"
+        }
+      },
+      "描边色": {
+        "描边色": {
+          "value": "#c9cbd2",
+          "type": "color"
+        }
+      },
+      "主色": {
+        "主色1": {
+          "value": "#ec5c0f",
+          "type": "color"
+        }
+      },
+      "主色遮罩": {
+        "主色字配色": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "主色遮罩2": {
+          "value": "#ffffff99",
+          "type": "color"
+        },
+        "主色遮罩3": {
+          "value": "#ffffff4d",
+          "type": "color"
+        },
+        "主色遮罩": {
+          "value": "#ffffffe6",
+          "type": "color"
+        }
+      },
+      "图表色板": {
+        "图表色": {
+          "value": "#1a6193",
+          "type": "color"
+        },
+        "图表色2": {
+          "value": "#ff7f0e",
+          "type": "color"
+        },
+        "图表色3": {
+          "value": "#2ca02c",
+          "type": "color"
+        },
+        "图表色4": {
+          "value": "#d62728",
+          "type": "color"
+        },
+        "图表色5": {
+          "value": "#9467bd",
+          "type": "color"
+        },
+        "图表色6": {
+          "value": "#8c564b",
+          "type": "color"
+        },
+        "图表色7": {
+          "value": "#e377c2",
+          "type": "color"
+        },
+        "图表色8": {
+          "value": "#7f7f7f",
+          "type": "color"
+        },
+        "图表色9": {
+          "value": "#bcbd22",
+          "type": "color"
+        },
+        "图表色10": {
+          "value": "#17becf",
+          "type": "color"
+        },
+        "图表色11": {
+          "value": "#a6cee3",
+          "type": "color"
+        },
+        "图表色12": {
+          "value": "#b2df8a",
+          "type": "color"
+        },
+        "图表色13": {
+          "value": "#fb9a99",
+          "type": "color"
+        },
+        "图表色14": {
+          "value": "#fdbf6f",
+          "type": "color"
+        },
+        "图表色15": {
+          "value": "#b171c1",
+          "type": "color"
+        },
+        "图表色16": {
+          "value": "#ff7f00",
+          "type": "color"
+        },
+        "图表色17": {
+          "value": "#33a02c",
+          "type": "color"
+        },
+        "图表色18": {
+          "value": "#6a3d9a",
+          "type": "color"
+        },
+        "图表色19": {
+          "value": "#b15928",
+          "type": "color"
+        },
+        "图表色20": {
+          "value": "#1b9e77",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "变量集合/模式2": {
+    "颜色": {
+      "底色": {
+        "底色1": {
+          "value": "#1f2024",
+          "type": "color"
+        },
+        "底色2": {
+          "value": "#292b30",
+          "type": "color"
+        },
+        "底色3": {
+          "value": "#3b3b43",
+          "type": "color"
+        },
+        "底色4": {
+          "value": "#4e4e5b",
+          "type": "color"
+        }
+      },
+      "元素色": {
+        "元素色1": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "元素色2": {
+          "value": "#bfbfc1",
+          "type": "color"
+        },
+        "元素色3": {
+          "value": "#949597",
+          "type": "color"
+        },
+        "元素色4": {
+          "value": "#ff4c3c",
+          "type": "color"
+        },
+        "元素色5": {
+          "value": "#33fdaa",
+          "type": "color"
+        },
+        "元素色6": {
+          "value": "#0eb9f8",
+          "type": "color"
+        },
+        "元素色7": {
+          "value": "#fecf12",
+          "type": "color"
+        }
+      },
+      "描边色": {
+        "描边色": {
+          "value": "#5a5a65",
+          "type": "color"
+        }
+      },
+      "主色": {
+        "主色1": {
+          "value": "#fc5c26",
+          "type": "color"
+        }
+      },
+      "主色遮罩": {
+        "主色字配色": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "主色遮罩2": {
+          "value": "#ffffff99",
+          "type": "color"
+        },
+        "主色遮罩3": {
+          "value": "#ffffff4d",
+          "type": "color"
+        },
+        "主色遮罩": {
+          "value": "#ffffffe6",
+          "type": "color"
+        }
+      },
+      "图表色板": {
+        "图表色": {
+          "value": "#83bbf7",
+          "type": "color"
+        },
+        "图表色2": {
+          "value": "#f3871b",
+          "type": "color"
+        },
+        "图表色3": {
+          "value": "#e15759",
+          "type": "color"
+        },
+        "图表色4": {
+          "value": "#76b7b2",
+          "type": "color"
+        },
+        "图表色5": {
+          "value": "#59a14f",
+          "type": "color"
+        },
+        "图表色6": {
+          "value": "#edc948",
+          "type": "color"
+        },
+        "图表色7": {
+          "value": "#b07aa1",
+          "type": "color"
+        },
+        "图表色8": {
+          "value": "#ff9da7",
+          "type": "color"
+        },
+        "图表色9": {
+          "value": "#9c755f",
+          "type": "color"
+        },
+        "图表色10": {
+          "value": "#bab0ac",
+          "type": "color"
+        },
+        "图表色11": {
+          "value": "#86bcb6",
+          "type": "color"
+        },
+        "图表色12": {
+          "value": "#f1ce63",
+          "type": "color"
+        },
+        "图表色13": {
+          "value": "#d37295",
+          "type": "color"
+        },
+        "图表色14": {
+          "value": "#72b7f2",
+          "type": "color"
+        },
+        "图表色15": {
+          "value": "#d89de8",
+          "type": "color"
+        },
+        "图表色16": {
+          "value": "#f4a582",
+          "type": "color"
+        },
+        "图表色17": {
+          "value": "#92c5de",
+          "type": "color"
+        },
+        "图表色18": {
+          "value": "#7fbc41",
+          "type": "color"
+        },
+        "图表色19": {
+          "value": "#d6604d",
+          "type": "color"
+        },
+        "图表色20": {
+          "value": "#4393c3",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "变量集合/模式1",
+      "变量集合/模式2"
+    ]
+  }
+}
