@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Run Style Dictionary
-        run: npm run build
+        run: npx style-dictionary build --config style-dictionary.config.js
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
