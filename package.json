@@ -1,0 +1,10 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.8.0"
+  }
+}
