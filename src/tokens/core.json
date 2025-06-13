@@ -2169,6 +2169,10 @@
           }
         },
         "Alpha_1": {
+          "5": {
+            "$type": "color",
+            "$value": "#ffffff0d"
+          },
           "10": {
             "$type": "color",
             "$value": "#ffffff1a"
@@ -2204,10 +2208,6 @@
           "90": {
             "$type": "color",
             "$value": "#ffffffe6"
-          },
-          "5%": {
-            "$type": "color",
-            "$value": "#ffffff0d"
           }
         }
       },
@@ -2629,6 +2629,10 @@
           }
         },
         "Alpha_1": {
+          "5": {
+            "$type": "color",
+            "$value": "#ffffff0d"
+          },
           "10": {
             "$type": "color",
             "$value": "#ffffff1a"
@@ -2664,10 +2668,6 @@
           "90": {
             "$type": "color",
             "$value": "#ffffffe6"
-          },
-          "5%": {
-            "$type": "color",
-            "$value": "#ffffff0d"
           }
         }
       },
@@ -3089,6 +3089,10 @@
           }
         },
         "Alpha_1": {
+          "5": {
+            "$type": "color",
+            "$value": "#ffffff0d"
+          },
           "10": {
             "$type": "color",
             "$value": "#ffffff1a"
@@ -3124,10 +3128,6 @@
           "90": {
             "$type": "color",
             "$value": "#ffffffe6"
-          },
-          "5%": {
-            "$type": "color",
-            "$value": "#ffffff0d"
           }
         }
       },
@@ -3549,6 +3549,10 @@
           }
         },
         "Alpha_1": {
+          "5": {
+            "$type": "color",
+            "$value": "#0000000d"
+          },
           "10": {
             "$type": "color",
             "$value": "#0000001a"
@@ -3584,10 +3588,6 @@
           "90": {
             "$type": "color",
             "$value": "#000000e6"
-          },
-          "5%": {
-            "$type": "color",
-            "$value": "#0000000d"
           }
         }
       },
