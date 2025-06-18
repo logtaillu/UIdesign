@@ -1259,43 +1259,43 @@
         "Alpha_2": {
           "5": {
             "$type": "color",
-            "$value": "#0000000d"
+            "$value": "#221b6d0d"
           },
           "10": {
             "$type": "color",
-            "$value": "#0000001a"
+            "$value": "#221b6d1a"
           },
           "20": {
             "$type": "color",
-            "$value": "#00000033"
+            "$value": "#221b6d33"
           },
           "30": {
             "$type": "color",
-            "$value": "#0000004d"
+            "$value": "#221b6d4d"
           },
           "40": {
             "$type": "color",
-            "$value": "#00000066"
+            "$value": "#221b6d66"
           },
           "50": {
             "$type": "color",
-            "$value": "#00000080"
+            "$value": "#221b6d80"
           },
           "60": {
             "$type": "color",
-            "$value": "#00000099"
+            "$value": "#221b6d99"
           },
           "70": {
             "$type": "color",
-            "$value": "#000000b3"
+            "$value": "#221b6db3"
           },
           "80": {
             "$type": "color",
-            "$value": "#000000cc"
+            "$value": "#221b6dcc"
           },
           "90": {
             "$type": "color",
-            "$value": "#000000e6"
+            "$value": "#221b6de6"
           }
         },
         "Alpha_1": {
@@ -1557,11 +1557,11 @@
     "radius": {
       "Soft": {
         "$type": "dimension",
-        "$value": "0.375rem"
+        "$value": "0.5rem"
       },
       "Round": {
         "$type": "dimension",
-        "$value": "1rem"
+        "$value": "0.812rem"
       },
       "full": {
         "$type": "dimension",
