@@ -31,7 +31,7 @@
           "$value": "#4b0000"
         }
       },
-      "Overlay": {
+      "overlay": {
         "alpha-2": {
           "5": {
             "$type": "color",
@@ -331,11 +331,11 @@
       }
     },
     "radius": {
-      "Soft": {
+      "soft": {
         "$type": "dimension",
         "$value": "4px"
       },
-      "Round": {
+      "round": {
         "$type": "dimension",
         "$value": "16px"
       },
@@ -675,7 +675,7 @@
           "$value": "#18fefe"
         }
       },
-      "Overlay": {
+      "overlay": {
         "alpha-2": {
           "5": {
             "$type": "color",
@@ -975,11 +975,11 @@
       }
     },
     "radius": {
-      "Soft": {
+      "soft": {
         "$type": "dimension",
         "$value": "0px"
       },
-      "Round": {
+      "round": {
         "$type": "dimension",
         "$value": "1px"
       },
@@ -1319,7 +1319,7 @@
           "$value": "#002b5d"
         }
       },
-      "Overlay": {
+      "overlay": {
         "alpha-2": {
           "5": {
             "$type": "color",
@@ -1619,11 +1619,11 @@
       }
     },
     "radius": {
-      "Soft": {
+      "soft": {
         "$type": "dimension",
         "$value": "4px"
       },
-      "Round": {
+      "round": {
         "$type": "dimension",
         "$value": "8px"
       },
@@ -1963,7 +1963,7 @@
           "$value": "#112127"
         }
       },
-      "Overlay": {
+      "overlay": {
         "alpha-2": {
           "5": {
             "$type": "color",
@@ -2263,11 +2263,11 @@
       }
     },
     "radius": {
-      "Soft": {
+      "soft": {
         "$type": "dimension",
         "$value": "6px"
       },
-      "Round": {
+      "round": {
         "$type": "dimension",
         "$value": "10px"
       },
