@@ -1,10 +1,11 @@
 {
   "name": "design-tokens",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "node ./sd.config.js"
   },
   "devDependencies": {
-    "style-dictionary": "^3.8.0"
+    "style-dictionary": "^5.0.0"
   }
 }
