@@ -32,12 +32,9 @@ jobs:
           BITBUCKET_MAIL: ${{ secrets.BITBUCKET_MAIL }}
         run: |
           cd bitbucket-sync
-          git config --global user.name BITBUCKET_USER
-          git config --global user.email BITBUCKET_MAIL
+          git config --global user.name ${BITBUCKET_USER}
+          git config --global user.email ${BITBUCKET_MAIL}
           git checkout master
-          # 检查当前分支
-          DEFAULT_BRANCH=$(git remote show origin | grep 'HEAD branch')
-          echo "Bitbucket default branch is: $DEFAULT_BRANCH"
           if [ -n "$(git status --porcelain)" ]; then
             git add .
             git commit -m "feat: sync from GitHub: $(git log -1 --pretty=format:%H) at $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
