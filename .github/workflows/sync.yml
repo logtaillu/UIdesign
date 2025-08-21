@@ -17,11 +17,10 @@ jobs:
           BITBUCKET_USER: ${{ secrets.BITBUCKET_USER }}
           BITBUCKET_PWD: ${{ secrets.BITBUCKET_PWD }}
         run: |
-          if [ -d .git ]; then
-            git pull
-          else
-            git clone https://${BITBUCKET_USER}:${BITBUCKET_PWD}@${BITBUCKET_REPO} bitbucket-sync
-          fi
+          rm -rf bitbucket-sync
+          git clone https://${BITBUCKET_USER}:${BITBUCKET_PWD}@${BITBUCKET_REPO} bitbucket-sync
+          cd bitbucket-sync
+          git checkout master
       - name: Copy files
         run: |
           rm -rf bitbucket-sync/src/tokens
@@ -36,6 +35,9 @@ jobs:
           git config --global user.name BITBUCKET_USER
           git config --global user.email BITBUCKET_MAIL
           git checkout master
+          # 检查当前分支
+          DEFAULT_BRANCH=$(git remote show origin | grep 'HEAD branch')
+          echo "Bitbucket default branch is: $DEFAULT_BRANCH"
           if [ -n "$(git status --porcelain)" ]; then
             git add .
             git commit -m "feat: sync from GitHub: $(git log -1 --pretty=format:%H) at $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
