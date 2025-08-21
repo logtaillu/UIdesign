@@ -11,16 +11,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      - name: Prepare Bitbucket sync directory
-        run: |
-          mkdir -p bitbucket-sync
       - name: clone repo
         env: 
           BITBUCKET_REPO: ${{ secrets.BITBUCKET_REPO }}
           BITBUCKET_USER: ${{ secrets.BITBUCKET_USER }}
           BITBUCKET_PWD: ${{ secrets.BITBUCKET_PWD }}
         run: |
-          cd bitbucket-sync
           if [ -d .git ]; then
             git pull
           else
