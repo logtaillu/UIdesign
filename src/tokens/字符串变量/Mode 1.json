@@ -1,0 +1,406 @@
+{
+  "zntgc": {
+    "value": "智能体广场",
+    "type": "text"
+  },
+  "zjsy": {
+    "value": "我的对话",
+    "type": "text"
+  },
+  "lshh": {
+    "value": "历史记录",
+    "type": "text"
+  },
+  "glznt": {
+    "value": "管理中心",
+    "type": "text"
+  },
+  "fxyy": {
+    "value": "发现智能体",
+    "type": "text"
+  },
+  "fxmb": {
+    "value": "发现模板",
+    "type": "text"
+  },
+  "qb": {
+    "value": "全部",
+    "type": "text"
+  },
+  "gfznt": {
+    "value": "官方智能体",
+    "type": "text"
+  },
+  "tyy": {
+    "value": "通用",
+    "type": "text"
+  },
+  "qtyy": {
+    "value": "自定义分组",
+    "type": "text"
+  },
+  "ssznt": {
+    "value": "搜索智能体",
+    "type": "text"
+  },
+  "syx": {
+    "value": "试运行",
+    "type": "text"
+  },
+  "jxs": {
+    "value": "创建同款",
+    "type": "text"
+  },
+  "sslsjl": {
+    "value": "搜索历史记录",
+    "type": "text"
+  },
+  "glyy": {
+    "value": "管理智能体",
+    "type": "text"
+  },
+  "glmb": {
+    "value": "管理模板",
+    "type": "text"
+  },
+  "wcjd": {
+    "value": "我创建的",
+    "type": "text"
+  },
+  "dhznt": {
+    "value": "对话智能体",
+    "type": "text"
+  },
+  "bdznt": {
+    "value": "表单智能体",
+    "type": "text"
+  },
+  "sxls": {
+    "value": "数字教师",
+    "type": "text"
+  },
+  "xs": {
+    "value": "学生",
+    "type": "text"
+  },
+  "jzg": {
+    "value": "教职工",
+    "type": "text"
+  },
+  "qyyh": {
+    "value": "区域用户",
+    "type": "text"
+  },
+  "wfb": {
+    "value": "未发布",
+    "type": "text"
+  },
+  "cjznt": {
+    "value": "创建智能体",
+    "type": "text"
+  },
+  "cjdhznt": {
+    "value": "创建对话智能体",
+    "type": "text"
+  },
+  "cjbdznt": {
+    "value": "创建表单智能体",
+    "type": "text"
+  },
+  "cjsxls": {
+    "value": "创建数字教师",
+    "type": "text"
+  },
+  "fzgl": {
+    "value": "分组管理",
+    "type": "text"
+  },
+  "cjhnkfbz": {
+    "value": "创建后您可发布至以下渠道",
+    "type": "text"
+  },
+  "dhzntms": {
+    "value": "自由对话,适用于开放问答",
+    "type": "text"
+  },
+  "cjbdzntms": {
+    "value": "结构化输入，更精准高效",
+    "type": "text"
+  },
+  "cjsxlsms": {
+    "value": "学科领域的知识服务角色。",
+    "type": "text"
+  },
+  "mc": {
+    "value": "名称",
+    "type": "text"
+  },
+  "sd": {
+    "value": "提示词",
+    "type": "text"
+  },
+  "qsrzntmc": {
+    "value": "请输入智能体名称",
+    "type": "text"
+  },
+  "sdxj": {
+    "value": "例：“你是一位耐心细致的辅导老师，善于通俗讲解复杂知识，乐于答疑解惑，并以专业、清晰、鼓励的语气让学习轻松高效。”",
+    "type": "text"
+  },
+  "bj": {
+    "value": "编辑",
+    "type": "text"
+  },
+  "sc": {
+    "value": "删除",
+    "type": "text"
+  },
+  "ymbksks": {
+    "value": "或以模板快速开始",
+    "type": "text"
+  },
+  "ljcj": {
+    "value": "立即创建",
+    "type": "text"
+  },
+  "tg": {
+    "value": "跳过",
+    "type": "text"
+  },
+  "tjmb": {
+    "value": "推荐模板",
+    "type": "text"
+  },
+  "ssmb": {
+    "value": "搜索模板",
+    "type": "text"
+  },
+  "jlmsznt": {
+    "value": "简略描述该智能体",
+    "type": "text"
+  },
+  "jcsd": {
+    "value": "基础设置",
+    "type": "text"
+  },
+  "fz": {
+    "value": "分组",
+    "type": "text"
+  },
+  "jjj": {
+    "value": "简介",
+    "type": "text"
+  },
+  "qxz": {
+    "value": "请选择",
+    "type": "text"
+  },
+  "qsrjj": {
+    "value": "请简单介绍该智能体，说明它的角色定位与主要功能",
+    "type": "text"
+  },
+  "xzmx": {
+    "value": "选择模型",
+    "type": "text"
+  },
+  "dhmx": {
+    "value": "核心模型",
+    "type": "text"
+  },
+  "gnsz": {
+    "value": "功能设置",
+    "type": "text"
+  },
+  "yysz": {
+    "value": "语音设置",
+    "type": "text"
+  },
+  "yysru": {
+    "value": "语音输入",
+    "type": "text"
+  },
+  "yybf": {
+    "value": "语音播放",
+    "type": "text"
+  },
+  "stnl": {
+    "value": "图片上传",
+    "type": "text"
+  },
+  "ppjd": {
+    "value": "知识相关性偏好",
+    "type": "text"
+  },
+  "xlyx": {
+    "value": "出结果更容易",
+    "type": "text"
+  },
+  "jzyx": {
+    "value": "出结果更精准",
+    "type": "text"
+  },
+  "jh": {
+    "value": "均衡",
+    "type": "text"
+  },
+  "yttptsc": {
+    "value": "你是一位专业的图像解析助手，能够根据用户提供的图片，准确描述其中的内容、元素和细节，并结合上下文回答与图片相关的问题，确保表达清晰、信息完整且易于理解。",
+    "type": "text"
+  },
+  "mcpfw": {
+    "value": "MCP服务",
+    "type": "text"
+  },
+  "zsk": {
+    "value": "知识库",
+    "type": "text"
+  },
+  "yl": {
+    "value": "预览",
+    "type": "text"
+  },
+  "gnpz": {
+    "value": "功能设置",
+    "type": "text"
+  },
+  "pdfwjsbnl": {
+    "value": "文件上传",
+    "type": "text"
+  },
+  "kcwt": {
+    "value": "开场问题",
+    "type": "text"
+  },
+  "tjkcwt": {
+    "value": "添加开场问题",
+    "type": "text"
+  },
+  "kcb": {
+    "value": "开场白",
+    "type": "text"
+  },
+  "kcwazf": {
+    "value": "您好！请告诉我您的问题，我会尽力为您提供帮助。",
+    "type": "text"
+  },
+  "qsr": {
+    "value": "请输入",
+    "type": "text"
+  },
+  "qsrtsc": {
+    "value": "请输入提示词，用于引导开场问题的思考过程，推荐按“目标 + 背景 + 重点”规范开场问题。",
+    "type": "text"
+  },
+  "yyzwz": {
+    "value": "语音转文字",
+    "type": "text"
+  },
+  "mrzk": {
+    "value": "默认展开",
+    "type": "text"
+  },
+  "mrsq": {
+    "value": "默认收起",
+    "type": "text"
+  },
+  "zdbfyy": {
+    "value": "朗读文本",
+    "type": "text"
+  },
+  "zwgn": {
+    "value": "追问功能",
+    "type": "text"
+  },
+  "zydhk": {
+    "value": "对话输入功能",
+    "type": "text"
+  },
+  "dtkcbtsc": {
+    "value": "请输入提示词，开场白根据提示词来结构化定制结果，例如：“先向用户友好问候 → 简要概述当前文件的核心内容与重点信息 → 总字数控制在约100字以内，语言精炼、易懂。”",
+    "type": "text"
+  },
+  "yyy": {
+    "value": "引用变量",
+    "type": "text"
+  },
+  "aidtkcb": {
+    "value": "AI动态开场白",
+    "type": "text"
+  },
+  "gdkcb": {
+    "value": "固定开场白",
+    "type": "text"
+  },
+  "zntfzgl": {
+    "value": "智能体分组管理",
+    "type": "text"
+  },
+  "bdsz": {
+    "value": "表单设置",
+    "type": "text"
+  },
+  "xgx": {
+    "value": "相关性",
+    "type": "text"
+  },
+  "bc": {
+    "value": "保存",
+    "type": "text"
+  },
+  "qx": {
+    "value": "取消",
+    "type": "text"
+  },
+  "tj": {
+    "value": "添加",
+    "type": "text"
+  },
+  "wmmznt": {
+    "value": "未命名智能体",
+    "type": "text"
+  },
+  "pdfwj": {
+    "value": "PDF文件",
+    "type": "text"
+  },
+  "wordwj": {
+    "value": "Word文件",
+    "type": "text"
+  },
+  "csvwj": {
+    "value": "CSV数据表",
+    "type": "text"
+  },
+  "exl": {
+    "value": "Excel表格",
+    "type": "text"
+  },
+  "cxsc": {
+    "value": "重新生成",
+    "type": "text"
+  },
+  "dcgn": {
+    "value": "导出PDF",
+    "type": "text"
+  },
+  "bxznt": {
+    "value": "本校智能体",
+    "type": "text"
+  },
+  "jxznt": {
+    "value": "教学类",
+    "type": "text"
+  },
+  "tyl": {
+    "value": "通用类",
+    "type": "text"
+  },
+  "nrcl": {
+    "value": "内容处理功能",
+    "type": "text"
+  },
+  "swl": {
+    "value": "思维链",
+    "type": "text"
+  }
+}
