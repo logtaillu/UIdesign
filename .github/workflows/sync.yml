@@ -28,6 +28,7 @@ jobs:
       - name: Copy files
         run: |
           rm -rf bitbucket-sync/src/tokens
+          mkdir -p bitbucket-sync/src
           cp -r src/tokens bitbucket-sync/src/tokens
       - name: Sync to Bitbucket
         env: 
