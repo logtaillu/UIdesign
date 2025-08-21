@@ -29,18 +29,17 @@ jobs:
           cp -r src/tokens bitbucket-sync/src/tokens
       - name: Sync to Bitbucket
         env: 
-          BITBUCKET_REPO: ${{ secrets.BITBUCKET_REPO }}
           BITBUCKET_USER: ${{ secrets.BITBUCKET_USER }}
-          BITBUCKET_PWD: ${{ secrets.BITBUCKET_PWD }}
           BITBUCKET_MAIL: ${{ secrets.BITBUCKET_MAIL }}
         run: |
           cd bitbucket-sync
           git config --global user.name BITBUCKET_USER
           git config --global user.email BITBUCKET_MAIL
+          git checkout master
           if [ -n "$(git status --porcelain)" ]; then
             git add .
             git commit -m "feat: sync from GitHub: $(git log -1 --pretty=format:%H) at $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-            git push https://${BITBUCKET_USER}:${BITBUCKET_PWD}@${BITBUCKET_REPO} master -q
+            git push origin master -q
             echo "Successfully synced to Bitbucket"
           else
             echo "No changes to sync"
